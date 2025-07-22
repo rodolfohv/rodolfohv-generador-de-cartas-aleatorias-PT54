@@ -75,10 +75,6 @@ button:hover {
   align-items: center;
 }
 
-button {
-  margin-top: 20px;
-  ...
-}
 
 .size-controls {
   margin-top: 20px;
